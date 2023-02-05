@@ -6,7 +6,7 @@ A software engineer, currently builiding cloud based web applications to enhance
 
 [![LeetCode](https://img.shields.io/badge/Leetcode-Profile-yellow?logo=LeetCode)](https://leetcode.com/avadhoot05/)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhootkhedekar/)  -->
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-yellow?logo=white)](https://www.linkedin.com/in/avadhootkhedekar/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-white?logo=LinkedIn)](https://www.linkedin.com/in/avadhootkhedekar/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@avadhootk) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@avadhoot05) 
 
