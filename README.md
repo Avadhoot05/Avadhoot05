@@ -3,9 +3,8 @@ A software engineer, currently builiding cloud based web applications to enhance
 
 
 ## 🌐 Socials:
- <a href="https://leetcode.com/mrunankmistry52/">
-      <img alt="LeetCode Profile" src="https://img.shields.io/badge/Leetcode-Profile-yellow?logo=LeetCode" />
-  </a>
+
+[![LeetCode](https://img.shields.io/badge/Leetcode-Profile-yellow?logo=LeetCode)](https://leetcode.com/mrunankmistry52/)   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_avadhoot_k) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhootkhedekar/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@avadhootk) 
